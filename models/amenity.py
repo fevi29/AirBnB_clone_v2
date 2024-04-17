@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" amenity module for HBNB """
+"""Esta es la clase de amenidades"""
 import models
 from models.base_model import BaseModel, Base
 from sqlalchemy.orm import relationship
